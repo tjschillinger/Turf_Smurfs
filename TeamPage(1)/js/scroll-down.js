@@ -30,6 +30,12 @@ $(".button").click(function() {
 
 $("#careers-scroll").click(function() {
     $('html,body').animate({
-        scrollTop: $("#careers").offset().top-100 },
+        scrollTop: $("#careers-info").offset().top-100 },
+        2000, 'swing');
+});
+
+$("#contact-scroll").click(function() {
+    $('html,body').animate({
+        scrollTop: $("#contact-area").offset().top-100 },
         2000, 'swing');
 });
