@@ -17,7 +17,6 @@
 			<!--<link rel="stylesheet" href="css/style-xlarge.css" />-->
 		</noscript>
         <link rel="stylesheet" href="css/nav-style.css" />
-        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 	</head>
 	<body class="landing">
 
@@ -189,7 +188,7 @@
 				</div>
 			</footer>
             </div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
         <script src="js/jquery.min.js"></script>
         <script src="js/jv-jquery-mobile-menu-min.js"></script>
         <script src="js/main.js"></script>
