@@ -901,7 +901,7 @@ ul.icons li a:hover::before {
 	}
 
 		#copyrights input, #footer select, #footer textarea {
-			color: #fff;
+			color: black;
 		}
 
 		#copyrights a {
