@@ -24,18 +24,12 @@ $(".hamburger").click(function() {
 
 $(".button").click(function() {
     $('html,body').animate({
-        scrollTop: $("#careers").offset().top-100 },
+        scrollTop: $("#contact-area").offset().top-100 },
         1000, 'swing');
 });
 
 $("#careers-scroll").click(function() {
     $('html,body').animate({
         scrollTop: $("#careers-info").offset().top-100 },
-        2000, 'swing');
-});
-
-$("#contact-scroll").click(function() {
-    $('html,body').animate({
-        scrollTop: $("#contact-area").offset().top-100 },
         2000, 'swing');
 });
